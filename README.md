@@ -17,6 +17,6 @@
 ## 📫 How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badgeemrepkgzl-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emre-pekg%C3%BCzel-029b1b1b5)
+[![Linkedin Badge](https://img.shields.io/badge/emrepkgzl-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emre-pekg%C3%BCzel-029b1b1b5)
 
 
