@@ -1,7 +1,7 @@
 ### Hi everybody 👋
 
-- 🔭 I’m currently working on c(stm32) programming
-- 🌱 I’m currently learning FreeRTOS, python and java
+- 🔭 I’m currently working on node.js programming
+- 🌱 I’m currently learning FPGA, python and java
 - 📫 How to reach me: emrepekguzel@gmail.com
 
 
