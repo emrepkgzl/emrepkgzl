@@ -1,7 +1,7 @@
 ### Hi everybody 👋
 
-- 🔭 I’m currently working on node.js programming
-- 🌱 I’m currently learning FPGA, python and java
+- 🔭 I’m currently working on FPGA programming
+- 🌱 I’m currently learning VHDL
 - 📫 How to reach me: emrepekguzel@gmail.com
 
 
